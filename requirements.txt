@@ -1,0 +1,6 @@
+Flask
+pytest
+requests
+requests-mock
+pytest-cov
+mypy
